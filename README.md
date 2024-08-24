@@ -1,2 +1,2 @@
-# MajorProject
-The final game project for my university 
+# MajorProjectGame
+ Final Major Project Game Project
