@@ -1,22 +1,40 @@
 # MajorProjectGame
  Final Major Project Game Project
 
-// Direction To Player Character Files  
-Content -> Player  
-(https://github.com/CKirkby/MajorProject/tree/main/Content/Player)  
+## Work Content
 
-// Direction to AI Files  
-Content -> AI_Companion   
-(https://github.com/CKirkby/MajorProject/tree/main/Content/AI_Companion)  
+### Direction To Player Character Files  
+ **Unreal Engine**  
+  * Content -> Player  
 
-// Direction to Puzzle Component Files   
-Content -> Puzzle_Blueprints  
-(https://github.com/CKirkby/MajorProject/tree/main/Content/Puzzle_Blueprints)  
+ **GitHub**  
+  * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Player)  
 
-// Direction to Maps  
-Content -> Maps  
-(https://github.com/CKirkby/MajorProject/tree/main/Content/Maps)  
+### Direction to AI Files  
+ **Unreal Engine**  
+ * Content -> AI_Companion   
 
-// Direction to UI   
-Content -> UI  
-(https://github.com/CKirkby/MajorProject/tree/main/Content/UI)  
+ **GitHub**  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/AI_Companion)  
+
+### Direction to Puzzle Component Files  
+ **Unreal Engine**  
+ * Content -> Puzzle_Blueprints  
+
+ **GitHub**  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Puzzle_Blueprints)  
+
+### Direction to Maps  
+ **Unreal Engine**  
+ * Content -> Maps  
+
+ **GitHub**  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Maps)  
+
+### Direction to UI   
+ **Unreal Engine**  
+ * Content -> UI  
+
+ **GitHub**  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/UI)  
+
