@@ -3,7 +3,7 @@
 ![iaYydo](https://github.com/user-attachments/assets/954f3f24-b0bd-4ae4-a074-72af7ad97faa)
 
 ## Introduction
- This is the repo for my major project game. A small puzzle game 
+ This is the repo for my major project game. A small puzzle game designed to test the theory if having an AI companion help you during puzzle sections boosts the players enjoyment.
 
 ## Work Content
 
