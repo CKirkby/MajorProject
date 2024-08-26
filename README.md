@@ -1,40 +1,30 @@
 # MajorProjectGame
- Final Major Project Game Project
+
+![iaYydo](https://github.com/user-attachments/assets/954f3f24-b0bd-4ae4-a074-72af7ad97faa)
+
+## Introduction
+ This is the repo for my major project game. A small puzzle game 
 
 ## Work Content
 
 ### Direction To Player Character Files  
- **Unreal Engine**  
-  * Content -> Player  
-
- **GitHub**  
-  * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Player)  
+  * Content -> Player   
+  * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Player) for GitHub  
 
 ### Direction to AI Files  
- **Unreal Engine**  
  * Content -> AI_Companion   
-
- **GitHub**  
- * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/AI_Companion)  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/AI_Companion) for GitHub  
 
 ### Direction to Puzzle Component Files  
- **Unreal Engine**  
  * Content -> Puzzle_Blueprints  
-
- **GitHub**  
- * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Puzzle_Blueprints)  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Puzzle_Blueprints) for GitHub  
 
 ### Direction to Maps  
- **Unreal Engine**  
  * Content -> Maps  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Maps) for GitHub  
 
- **GitHub**  
- * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/Maps)  
-
-### Direction to UI   
- **Unreal Engine**  
+### Direction to UI    
  * Content -> UI  
+ * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/UI) for GitHub
 
- **GitHub**  
- * [Here](https://github.com/CKirkby/MajorProject/tree/main/Content/UI)  
 
